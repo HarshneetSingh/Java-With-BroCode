@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.ArrayList;
 
-public class arrayList {
+public class arrayList_11_ {
     public static void main(String...args){
 
         /*

@@ -1,6 +1,6 @@
 package com.company;
 
-public class Arrays {
+public class Arrays_9_ {
     public static void main(String... args) {
         String[] hello = {"hello", "yp", "ee"};
 //or

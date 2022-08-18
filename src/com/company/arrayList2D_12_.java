@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.ArrayList;
 
-public class arrayList2D {
+public class arrayList2D_12_ {
     public static void main(String[] args) {
         ArrayList<ArrayList<String>>  twoDArr=new ArrayList<>();
 

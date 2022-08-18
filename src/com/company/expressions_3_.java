@@ -1,6 +1,6 @@
 package com.company;
 
-public class expressions {
+public class expressions_3_ {
 
     public static void main(String...args){
 
