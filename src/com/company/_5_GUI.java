@@ -1,6 +1,6 @@
 package com.company;
 import javax.swing.JOptionPane;
-public class GUI_5_ {
+public class _5_GUI {
     public static void main(String...args){
 
         String name = JOptionPane.showInputDialog("What is your name?");

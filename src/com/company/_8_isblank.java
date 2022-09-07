@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class isblank_8_ {
+public class _8_isblank {
     public static void main(String...args){
 //        isBlank() returns true if the string is empty or contains only white space,
 

@@ -1,6 +1,6 @@
 package com.company;
 
-public class overloadedMethods_15_ {
+public class _15_overloadedMethods {
     public static void main(String[] args) {
 
         System.out.println(add(1,5));

@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Scanner;
-public class input_2_ {
+public class _2_input {
     public static void main(String...args){
         System.out.println("enter number");
         Scanner scn=new Scanner(System.in);

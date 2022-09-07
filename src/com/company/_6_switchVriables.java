@@ -1,6 +1,6 @@
 package com.company;
 
-public class switchVriables_6_ {
+public class _6_switchVriables {
     //    LET SAY WE WANT TO SWITCH TWO VARIABLES
     public static void main(String... args) {
         String x = "hello";

@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class array2D_10_ {
+public class _10_array2D {
     public static void main(String... args) {
         int[][] matrix = new int[3][3];
         for (int j = 0; j < matrix.length; j++) {

@@ -1,7 +1,7 @@
 package com.company;
 
 
-public class printf_16_ {
+public class _16_printf {
     public static void main(String[] args) {
 //        printf = an optional method to control , format and display text  to the console window
 //                  two arguments = format strings + (objects / variable/value )

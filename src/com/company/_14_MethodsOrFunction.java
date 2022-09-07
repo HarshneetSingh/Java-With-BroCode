@@ -1,6 +1,6 @@
 package com.company;
 
-public class MethodsOrFunction_14_ {
+public class _14_MethodsOrFunction {
     //    methods are same as functions;
     public static void main(String[] args) {
         int x = 10, y = 12;

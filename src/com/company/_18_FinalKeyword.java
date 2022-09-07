@@ -1,6 +1,6 @@
 package com.company;
 
-public class FinalKeyword {
+public class _18_FinalKeyword {
 
     public static void main(String[] args) {
 //         this keyword work as just like a const in js

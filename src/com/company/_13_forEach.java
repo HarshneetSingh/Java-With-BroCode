@@ -1,6 +1,6 @@
 package com.company;
 
-public class forEach_13_ {
+public class _13_forEach {
     public static void main(String[] args) {
         String[] food = {"hi", "hii", "hiii"};
 
